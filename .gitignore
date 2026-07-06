@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Large datasets
+data/
+datasets/
+TextZoom/
+*.mdb
+*.lmdb
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# Outputs
+experiments/outputs/
+vis/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
