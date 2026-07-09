@@ -1,0 +1,16 @@
+difficulty,image_type,image_name,ocr_text,confidence,notes
+easy,sr_realesrgan,easy_01_lr_sr.png,DDG 0297 57,0.1676,
+easy,sr_realesrgan,easy_02_lr_sr.png,0u0&029757,0.4924,
+easy,sr_realesrgan,easy_03_lr_sr.png,,0,No text detected
+easy,sr_realesrgan,easy_04_lr_sr.png,Mosc,0.9941,
+easy,sr_realesrgan,easy_05_lr_sr.png,Impressionisf,0.6432,
+medium,sr_realesrgan,medium_01_lr_sr.png,QiCYYY,0.0964,
+medium,sr_realesrgan,medium_02_lr_sr.png,Lhur,0.7334,
+medium,sr_realesrgan,medium_03_lr_sr.png,,0,No text detected
+medium,sr_realesrgan,medium_04_lr_sr.png,I;Oo am - 1n;00,0.1643,
+medium,sr_realesrgan,medium_05_lr_sr.png,sal,0.9955,
+hard,sr_realesrgan,hard_01_lr_sr.png,Yu;,0.0074,
+hard,sr_realesrgan,hard_02_lr_sr.png,E E €,0.1283,
+hard,sr_realesrgan,hard_03_lr_sr.png,HirinG,0.1666,
+hard,sr_realesrgan,hard_04_lr_sr.png,Sc0 C Se,0.0188,
+hard,sr_realesrgan,hard_05_lr_sr.png,,0,No text detected

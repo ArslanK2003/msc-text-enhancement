@@ -1,0 +1,4 @@
+difficulty,lr,sr_realesrgan,hr
+easy,0.2192,0.4595,0.7665
+medium,0.6001,0.3979,0.8518
+hard,0.2105,0.0642,0.6256
