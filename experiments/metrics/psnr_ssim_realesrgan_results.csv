@@ -1,0 +1,16 @@
+difficulty,image_name,psnr,ssim
+easy,easy_01_lr_sr.png,25.3398,0.8647
+easy,easy_02_lr_sr.png,23.1971,0.8739
+easy,easy_03_lr_sr.png,26.5938,0.742
+easy,easy_04_lr_sr.png,24.1665,0.885
+easy,easy_05_lr_sr.png,24.3312,0.8797
+medium,medium_01_lr_sr.png,16.5359,0.7439
+medium,medium_02_lr_sr.png,17.8439,0.7127
+medium,medium_03_lr_sr.png,17.5181,0.7205
+medium,medium_04_lr_sr.png,16.3766,0.6252
+medium,medium_05_lr_sr.png,17.8416,0.7212
+hard,hard_01_lr_sr.png,18.2527,0.7693
+hard,hard_02_lr_sr.png,23.5783,0.9131
+hard,hard_03_lr_sr.png,22.8533,0.8965
+hard,hard_04_lr_sr.png,21.3885,0.8397
+hard,hard_05_lr_sr.png,23.2046,0.824

@@ -22,6 +22,7 @@ TextZoom/
 experiments/outputs/
 vis/
 
+experiments/visual_comparisons/
 # System files
 .DS_Store
 Thumbs.db

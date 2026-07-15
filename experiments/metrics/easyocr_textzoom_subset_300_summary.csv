@@ -1,0 +1,7 @@
+difficulty,image_type,num_images,average_confidence,no_text_detected
+easy,lr,100,0.1199,68
+easy,hr,100,0.5693,27
+medium,lr,100,0.0778,64
+medium,hr,100,0.5752,9
+hard,lr,100,0.0732,69
+hard,hr,100,0.4262,18
