@@ -1,0 +1,7 @@
+difficulty,index,selection_reason,ground_truth,lr_ocr,sr_ocr,lr_character_similarity,sr_character_similarity,change
+easy,63,largest SR improvement in difficulty group,SIEMENS,SILML,SIEMEN,0.4286,0.8571,0.4286
+easy,14,largest SR decline in difficulty group,Mango,Mana,,0.6,0.0,-0.6
+medium,11,largest SR improvement in difficulty group,No,We,No,0.0,1.0,1.0
+medium,15,largest SR decline in difficulty group,Added,Addcd,4J-,0.8,0.0,-0.8
+hard,10,largest SR improvement in difficulty group,11:00am-11:00,Iiddameid,"1.00 411,00",0.2,0.7,0.5
+hard,42,largest SR decline in difficulty group,Mochi,moch,J0,0.8,0.0,-0.8
