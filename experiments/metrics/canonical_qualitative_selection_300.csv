@@ -1,0 +1,7 @@
+difficulty,index,selection_reason,ground_truth,bicubic_prediction,realesrgan_prediction,tsrn_prediction,hr_prediction,bicubic_similarity,realesrgan_similarity,tsrn_similarity,hr_similarity,tsrn_gain_vs_best_baseline
+easy,97,Representative TSRN improvement over baselines,Galore,da,W p' (,Galore,Galore,0.1667,0.0,1.0,1.0,0.8333
+easy,31,Representative TSRN limitation or failure,FISH,FISu,5 [ [,FLBH,FISH,0.75,0.0,0.5,1.0,-0.25
+medium,39,Representative TSRN improvement over baselines,boom,DCm,IWy WUDeIN @,boom,bbom,0.25,0.0,1.0,0.75,0.75
+medium,10,Representative TSRN limitation or failure,MILK,,Mk,PAFc,MILK,0.0,0.5,0.0,1.0,-0.5
+hard,6,Representative TSRN improvement over baselines,thur,,,thur,thur,0.0,0.0,1.0,1.0,1.0
+hard,22,Representative TSRN limitation or failure,Hokkaido,Hokado,Holaldo,HolJialdo,Hokkaido,0.75,0.625,0.5556,1.0,-0.1944
