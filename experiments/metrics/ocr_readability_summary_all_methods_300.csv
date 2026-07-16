@@ -1,0 +1,17 @@
+difficulty,method,num_images,average_confidence,no_text_detected,detection_rate,exact_match_accuracy,mean_character_similarity
+easy,lr,100,0.1199,68,0.32,0.05,0.1975
+easy,sr_realesrgan,100,0.262,59,0.41,0.08,0.2509
+easy,sr_tsrn,100,0.4108,21,0.79,0.24,0.4897
+easy,hr,100,0.5693,27,0.73,0.44,0.6362
+medium,lr,100,0.0778,64,0.36,0.01,0.1044
+medium,sr_realesrgan,100,0.0836,78,0.22,0.02,0.093
+medium,sr_tsrn,100,0.15,25,0.75,0.05,0.2701
+medium,hr,100,0.5752,9,0.91,0.42,0.7318
+hard,lr,100,0.0732,69,0.31,0.04,0.1293
+hard,sr_realesrgan,100,0.0681,70,0.3,0.02,0.069
+hard,sr_tsrn,100,0.1723,42,0.58,0.11,0.2233
+hard,hr,100,0.4262,18,0.82,0.32,0.51
+overall,lr,300,0.0903,201,0.33,0.0333,0.1438
+overall,sr_realesrgan,300,0.1379,207,0.31,0.04,0.1376
+overall,sr_tsrn,300,0.2444,88,0.7067,0.1333,0.3277
+overall,hr,300,0.5236,54,0.82,0.3933,0.626

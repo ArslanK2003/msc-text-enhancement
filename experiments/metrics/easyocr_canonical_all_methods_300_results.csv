@@ -1,0 +1,1201 @@
+difficulty,image_type,image_name,ocr_text,confidence,notes
+easy,bicubic,easy_001_lr_bicubic.png,0u04029/s1,0.2725,
+easy,bicubic,easy_002_lr_bicubic.png,0u04029751,0.0988,
+easy,bicubic,easy_003_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_004_lr_bicubic.png,Moses,0.2425,
+easy,bicubic,easy_005_lr_bicubic.png,Improsslonlsi,0.2679,
+easy,bicubic,easy_006_lr_bicubic.png,1030= 1903,0.4362,
+easy,bicubic,easy_007_lr_bicubic.png,Pissaro;,0.247,
+easy,bicubic,easy_008_lr_bicubic.png,Camillo,0.1476,
+easy,bicubic,easy_009_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_010_lr_bicubic.png,,0.0,
+easy,bicubic,easy_011_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_012_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_013_lr_bicubic.png,MAngo,0.2574,
+easy,bicubic,easy_014_lr_bicubic.png,Manae,0.388,
+easy,bicubic,easy_015_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_016_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_017_lr_bicubic.png,ECI,0.0562,
+easy,bicubic,easy_018_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_019_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_020_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_021_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_022_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_023_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_024_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_025_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_026_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_027_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_028_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_029_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_030_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_031_lr_bicubic.png,FISu,0.3136,
+easy,bicubic,easy_032_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_033_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_034_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_035_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_036_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_037_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_038_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_039_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_040_lr_bicubic.png,SILMLNS,0.4878,
+easy,bicubic,easy_041_lr_bicubic.png,SILML,0.2802,
+easy,bicubic,easy_042_lr_bicubic.png,SilMi,0.2157,
+easy,bicubic,easy_043_lr_bicubic.png,SILM,0.2365,
+easy,bicubic,easy_044_lr_bicubic.png,"SUL""'`",0.038,
+easy,bicubic,easy_045_lr_bicubic.png,"Sir""' *`",0.0262,
+easy,bicubic,easy_046_lr_bicubic.png,5,0.1008,
+easy,bicubic,easy_047_lr_bicubic.png,SI,0.1753,
+easy,bicubic,easy_048_lr_bicubic.png,SILMI,0.4084,
+easy,bicubic,easy_049_lr_bicubic.png,SILML,0.7314,
+easy,bicubic,easy_050_lr_bicubic.png,SILMLNS,0.5705,
+easy,bicubic,easy_051_lr_bicubic.png,SILMENS,0.7359,
+easy,bicubic,easy_052_lr_bicubic.png,SILMLA,0.8338,
+easy,bicubic,easy_053_lr_bicubic.png,SIEMI,0.6211,
+easy,bicubic,easy_054_lr_bicubic.png,SIlM,0.1401,
+easy,bicubic,easy_055_lr_bicubic.png,SILM,0.4599,
+easy,bicubic,easy_056_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_057_lr_bicubic.png,SICA`,0.4451,
+easy,bicubic,easy_058_lr_bicubic.png,Si,0.1941,
+easy,bicubic,easy_059_lr_bicubic.png,SILML,0.3812,
+easy,bicubic,easy_060_lr_bicubic.png,SILML,0.4831,
+easy,bicubic,easy_061_lr_bicubic.png,SILMcNS,0.1204,
+easy,bicubic,easy_062_lr_bicubic.png,SCMCNS,0.193,
+easy,bicubic,easy_063_lr_bicubic.png,SILMLA,0.7005,
+easy,bicubic,easy_064_lr_bicubic.png,SILML,0.4588,
+easy,bicubic,easy_065_lr_bicubic.png,SILi,0.1459,
+easy,bicubic,easy_066_lr_bicubic.png,SUM,0.1626,
+easy,bicubic,easy_067_lr_bicubic.png,S,0.1213,
+easy,bicubic,easy_068_lr_bicubic.png,Gi7 MI,0.014,
+easy,bicubic,easy_069_lr_bicubic.png,Si,0.1228,
+easy,bicubic,easy_070_lr_bicubic.png,SIlML,0.2828,
+easy,bicubic,easy_071_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_072_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_073_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_074_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_075_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_076_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_077_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_078_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_079_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_080_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_081_lr_bicubic.png,Jonaina,0.3392,
+easy,bicubic,easy_082_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_083_lr_bicubic.png,Odlor,0.0223,
+easy,bicubic,easy_084_lr_bicubic.png,Calo,0.1404,
+easy,bicubic,easy_085_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_086_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_087_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_088_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_089_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_090_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_091_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_092_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_093_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_094_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_095_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_096_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_097_lr_bicubic.png,da,0.0351,
+easy,bicubic,easy_098_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_099_lr_bicubic.png,,0.0,No text detected
+easy,bicubic,easy_100_lr_bicubic.png,,0.0,No text detected
+easy,sr_realesrgan,easy_001_lr_realesrgan.png,0u06029757,0.4647,
+easy,sr_realesrgan,easy_002_lr_realesrgan.png,0006029757,0.5534,
+easy,sr_realesrgan,easy_003_lr_realesrgan.png,EtaIIX L,0.1724,
+easy,sr_realesrgan,easy_004_lr_realesrgan.png,Mosos,0.9345,
+easy,sr_realesrgan,easy_005_lr_realesrgan.png,Improslools|,0.6243,
+easy,sr_realesrgan,easy_006_lr_realesrgan.png,"1,83 QJWJ 903",0.5551,
+easy,sr_realesrgan,easy_007_lr_realesrgan.png,"Plssamro,",0.496,
+easy,sr_realesrgan,easy_008_lr_realesrgan.png,Comlllo,0.9991,
+easy,sr_realesrgan,easy_009_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_010_lr_realesrgan.png,3,0.3176,
+easy,sr_realesrgan,easy_011_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_012_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_013_lr_realesrgan.png,Mango,0.3896,
+easy,sr_realesrgan,easy_014_lr_realesrgan.png,M ea [D DD@,0.3614,
+easy,sr_realesrgan,easy_015_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_016_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_017_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_018_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_019_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_020_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_021_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_022_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_023_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_024_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_025_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_026_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_027_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_028_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_029_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_030_lr_realesrgan.png,"3,0ID DXLU",0.2401,
+easy,sr_realesrgan,easy_031_lr_realesrgan.png,5 [ [,0.6543,
+easy,sr_realesrgan,easy_032_lr_realesrgan.png,hlddm LJI ,0.1039,
+easy,sr_realesrgan,easy_033_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_034_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_035_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_036_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_037_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_038_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_039_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_040_lr_realesrgan.png,SEMENS,0.8936,
+easy,sr_realesrgan,easy_041_lr_realesrgan.png,SILMLNE,0.3909,
+easy,sr_realesrgan,easy_042_lr_realesrgan.png,SIEZMLLMS,0.1172,
+easy,sr_realesrgan,easy_043_lr_realesrgan.png,SIEM umb,0.7445,
+easy,sr_realesrgan,easy_044_lr_realesrgan.png,SIE,0.2525,
+easy,sr_realesrgan,easy_045_lr_realesrgan.png,S/i /,0.3129,
+easy,sr_realesrgan,easy_046_lr_realesrgan.png,S,0.2885,
+easy,sr_realesrgan,easy_047_lr_realesrgan.png,"SI M"",/t",0.2873,
+easy,sr_realesrgan,easy_048_lr_realesrgan.png,SIEMI NS,0.5226,
+easy,sr_realesrgan,easy_049_lr_realesrgan.png,SIEMENS,0.4521,
+easy,sr_realesrgan,easy_050_lr_realesrgan.png,SIEMENS,0.9647,
+easy,sr_realesrgan,easy_051_lr_realesrgan.png,SICMINS,0.6734,
+easy,sr_realesrgan,easy_052_lr_realesrgan.png,SICMLN,0.8158,
+easy,sr_realesrgan,easy_053_lr_realesrgan.png,SIEMINA,0.5783,
+easy,sr_realesrgan,easy_054_lr_realesrgan.png,SIEMCAS,0.2874,
+easy,sr_realesrgan,easy_055_lr_realesrgan.png,Sll ;,0.2842,
+easy,sr_realesrgan,easy_056_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_057_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_058_lr_realesrgan.png,SlI,0.5527,
+easy,sr_realesrgan,easy_059_lr_realesrgan.png,SEMLMA,0.4198,
+easy,sr_realesrgan,easy_060_lr_realesrgan.png,SICMIN,0.7393,
+easy,sr_realesrgan,easy_061_lr_realesrgan.png,SicMINS,0.2961,
+easy,sr_realesrgan,easy_062_lr_realesrgan.png,SICMENS,0.9196,
+easy,sr_realesrgan,easy_063_lr_realesrgan.png,SILMEN,0.2018,
+easy,sr_realesrgan,easy_064_lr_realesrgan.png,SIEMI,0.2984,
+easy,sr_realesrgan,easy_065_lr_realesrgan.png,SILM LELX,0.1067,
+easy,sr_realesrgan,easy_066_lr_realesrgan.png,SZU,0.178,
+easy,sr_realesrgan,easy_067_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_068_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_069_lr_realesrgan.png,SIl,0.4376,
+easy,sr_realesrgan,easy_070_lr_realesrgan.png,SILMI MN,0.1823,
+easy,sr_realesrgan,easy_071_lr_realesrgan.png,Di,0.0798,
+easy,sr_realesrgan,easy_072_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_073_lr_realesrgan.png,DMjIDE,0.1324,
+easy,sr_realesrgan,easy_074_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_075_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_076_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_077_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_078_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_079_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_080_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_081_lr_realesrgan.png,Jumlolm,0.2223,
+easy,sr_realesrgan,easy_082_lr_realesrgan.png,OSON,0.1364,
+easy,sr_realesrgan,easy_083_lr_realesrgan.png,Cci AGbT,0.0228,
+easy,sr_realesrgan,easy_084_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_085_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_086_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_087_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_088_lr_realesrgan.png,"C,T",0.0775,
+easy,sr_realesrgan,easy_089_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_090_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_091_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_092_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_093_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_094_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_095_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_096_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_097_lr_realesrgan.png,W p' (,0.1457,
+easy,sr_realesrgan,easy_098_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_099_lr_realesrgan.png,,0.0,No text detected
+easy,sr_realesrgan,easy_100_lr_realesrgan.png,,0.0,No text detected
+easy,sr_tsrn,easy_001_lr_tsrn.png,0U06029757,0.2245,
+easy,sr_tsrn,easy_002_lr_tsrn.png,0U04029757,0.8153,
+easy,sr_tsrn,easy_003_lr_tsrn.png,(Cammme,0.4917,
+easy,sr_tsrn,easy_004_lr_tsrn.png,Moses,0.997,
+easy,sr_tsrn,easy_005_lr_tsrn.png,Irpresslonlsi,0.3952,
+easy,sr_tsrn,easy_006_lr_tsrn.png,1830 T 1903,0.6719,
+easy,sr_tsrn,easy_007_lr_tsrn.png,"Plssarro,",0.8473,
+easy,sr_tsrn,easy_008_lr_tsrn.png,Camille,0.7839,
+easy,sr_tsrn,easy_009_lr_tsrn.png,10J0  |DOJ,0.201,
+easy,sr_tsrn,easy_010_lr_tsrn.png,2,0.2266,
+easy,sr_tsrn,easy_011_lr_tsrn.png,E=,0.0005,
+easy,sr_tsrn,easy_012_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_013_lr_tsrn.png,Mango,0.71,
+easy,sr_tsrn,easy_014_lr_tsrn.png,Mango,0.7807,
+easy,sr_tsrn,easy_015_lr_tsrn.png,n,0.0552,
+easy,sr_tsrn,easy_016_lr_tsrn.png,2,0.4878,
+easy,sr_tsrn,easy_017_lr_tsrn.png,(Pcs,0.2113,
+easy,sr_tsrn,easy_018_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_019_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_020_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_021_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_022_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_023_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_024_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_025_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_026_lr_tsrn.png,L7-2,0.0191,
+easy,sr_tsrn,easy_027_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_028_lr_tsrn.png,Fn,0.1305,
+easy,sr_tsrn,easy_029_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_030_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_031_lr_tsrn.png,FLBH,0.1182,
+easy,sr_tsrn,easy_032_lr_tsrn.png,ecala,0.1152,
+easy,sr_tsrn,easy_033_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_034_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_035_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_036_lr_tsrn.png,C,0.1676,
+easy,sr_tsrn,easy_037_lr_tsrn.png,doco,0.4142,
+easy,sr_tsrn,easy_038_lr_tsrn.png,Sen,0.363,
+easy,sr_tsrn,easy_039_lr_tsrn.png,Canar,0.1605,
+easy,sr_tsrn,easy_040_lr_tsrn.png,SIEMENS,0.9971,
+easy,sr_tsrn,easy_041_lr_tsrn.png,SIEMENS,0.9975,
+easy,sr_tsrn,easy_042_lr_tsrn.png,SIEMENS,0.9963,
+easy,sr_tsrn,easy_043_lr_tsrn.png,SIEMES,0.7084,
+easy,sr_tsrn,easy_044_lr_tsrn.png,slEM@NS,0.2951,
+easy,sr_tsrn,easy_045_lr_tsrn.png,SIEMIFNS,0.452,
+easy,sr_tsrn,easy_046_lr_tsrn.png,SLEMCNS,0.8846,
+easy,sr_tsrn,easy_047_lr_tsrn.png,SIEMMENS,0.6415,
+easy,sr_tsrn,easy_048_lr_tsrn.png,SIEMEAS,0.3442,
+easy,sr_tsrn,easy_049_lr_tsrn.png,SIEMENS,0.9943,
+easy,sr_tsrn,easy_050_lr_tsrn.png,SIEMENS,0.996,
+easy,sr_tsrn,easy_051_lr_tsrn.png,SIEMENS,0.9985,
+easy,sr_tsrn,easy_052_lr_tsrn.png,SIEMENS,0.9498,
+easy,sr_tsrn,easy_053_lr_tsrn.png,SIEME,0.9971,
+easy,sr_tsrn,easy_054_lr_tsrn.png,SIEMENS,0.9968,
+easy,sr_tsrn,easy_055_lr_tsrn.png,SIEMLAS,0.1836,
+easy,sr_tsrn,easy_056_lr_tsrn.png,S,0.5835,
+easy,sr_tsrn,easy_057_lr_tsrn.png,SD - R,0.087,
+easy,sr_tsrn,easy_058_lr_tsrn.png,SLEME,0.6917,
+easy,sr_tsrn,easy_059_lr_tsrn.png,SIEMENS,0.5953,
+easy,sr_tsrn,easy_060_lr_tsrn.png,SIEMENS,0.5044,
+easy,sr_tsrn,easy_061_lr_tsrn.png,SIEMENS,0.994,
+easy,sr_tsrn,easy_062_lr_tsrn.png,SIEMENS,0.9309,
+easy,sr_tsrn,easy_063_lr_tsrn.png,SIEMENS,0.9958,
+easy,sr_tsrn,easy_064_lr_tsrn.png,SIEME,0.9675,
+easy,sr_tsrn,easy_065_lr_tsrn.png,SIEMENS,0.9191,
+easy,sr_tsrn,easy_066_lr_tsrn.png,SLCM,0.2733,
+easy,sr_tsrn,easy_067_lr_tsrn.png,S,0.8825,
+easy,sr_tsrn,easy_068_lr_tsrn.png,SE,0.2963,
+easy,sr_tsrn,easy_069_lr_tsrn.png,SIEIEM,0.2812,
+easy,sr_tsrn,easy_070_lr_tsrn.png,SIEMEIS,0.6598,
+easy,sr_tsrn,easy_071_lr_tsrn.png,Dantect,0.0995,
+easy,sr_tsrn,easy_072_lr_tsrn.png,Bciluxo,0.0927,
+easy,sr_tsrn,easy_073_lr_tsrn.png,Diete,0.2563,
+easy,sr_tsrn,easy_074_lr_tsrn.png,Bouldr,0.4465,
+easy,sr_tsrn,easy_075_lr_tsrn.png,Dileca (I(,0.0547,
+easy,sr_tsrn,easy_076_lr_tsrn.png,8u,0.417,
+easy,sr_tsrn,easy_077_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_078_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_079_lr_tsrn.png,Oa,0.0827,
+easy,sr_tsrn,easy_080_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_081_lr_tsrn.png,Jonathan,0.9733,
+easy,sr_tsrn,easy_082_lr_tsrn.png,eron,0.1366,
+easy,sr_tsrn,easy_083_lr_tsrn.png,Gulore,0.9093,
+easy,sr_tsrn,easy_084_lr_tsrn.png,Galore,0.9308,
+easy,sr_tsrn,easy_085_lr_tsrn.png,60,0.3533,
+easy,sr_tsrn,easy_086_lr_tsrn.png,Ginuo,0.5341,
+easy,sr_tsrn,easy_087_lr_tsrn.png,GnT,0.1196,
+easy,sr_tsrn,easy_088_lr_tsrn.png,Gularn,0.2377,
+easy,sr_tsrn,easy_089_lr_tsrn.png,Ecnco,0.1838,
+easy,sr_tsrn,easy_090_lr_tsrn.png,Galoru,0.6567,
+easy,sr_tsrn,easy_091_lr_tsrn.png,bnlun,0.1224,
+easy,sr_tsrn,easy_092_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_093_lr_tsrn.png,Gularn,0.5839,
+easy,sr_tsrn,easy_094_lr_tsrn.png,Crono,0.3961,
+easy,sr_tsrn,easy_095_lr_tsrn.png,Gelara,0.7057,
+easy,sr_tsrn,easy_096_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_097_lr_tsrn.png,Galore,0.9713,
+easy,sr_tsrn,easy_098_lr_tsrn.png,Gna,0.2293,
+easy,sr_tsrn,easy_099_lr_tsrn.png,,0.0,No text detected
+easy,sr_tsrn,easy_100_lr_tsrn.png,cChan,0.1045,
+easy,hr,easy_001_hr.png,0u04029757,0.5881,
+easy,hr,easy_002_hr.png,0U04029757,0.6486,
+easy,hr,easy_003_hr.png,(Camille,0.827,
+easy,hr,easy_004_hr.png,Moses,0.6618,
+easy,hr,easy_005_hr.png,Impressionist,0.9911,
+easy,hr,easy_006_hr.png,1830-1903,0.4987,
+easy,hr,easy_007_hr.png,Pissarro;,0.7312,
+easy,hr,easy_008_hr.png,Camille,1.0,
+easy,hr,easy_009_hr.png,1030 = |903,0.3797,
+easy,hr,easy_010_hr.png,2,0.0208,
+easy,hr,easy_011_hr.png,Ps,0.0081,
+easy,hr,easy_012_hr.png,Ts,0.0603,
+easy,hr,easy_013_hr.png,Mango,0.9982,
+easy,hr,easy_014_hr.png,Mango,0.9912,
+easy,hr,easy_015_hr.png,3,0.0365,
+easy,hr,easy_016_hr.png,2,0.8139,
+easy,hr,easy_017_hr.png,(PCS),0.5042,
+easy,hr,easy_018_hr.png,,0.0,No text detected
+easy,hr,easy_019_hr.png,,0.0,No text detected
+easy,hr,easy_020_hr.png,,0.0,No text detected
+easy,hr,easy_021_hr.png,,0.0,
+easy,hr,easy_022_hr.png,,0.0,No text detected
+easy,hr,easy_023_hr.png,,0.0,No text detected
+easy,hr,easy_024_hr.png,,0.0,No text detected
+easy,hr,easy_025_hr.png,,0.0,No text detected
+easy,hr,easy_026_hr.png,1,0.0123,
+easy,hr,easy_027_hr.png,= -,0.0914,
+easy,hr,easy_028_hr.png,,0.0,No text detected
+easy,hr,easy_029_hr.png,,0.0,No text detected
+easy,hr,easy_030_hr.png,SNACR,0.6503,
+easy,hr,easy_031_hr.png,FISH,0.5968,
+easy,hr,easy_032_hr.png,Mkam,0.1376,
+easy,hr,easy_033_hr.png,Or,0.0399,
+easy,hr,easy_034_hr.png,ON3,0.0452,
+easy,hr,easy_035_hr.png,,0.0,No text detected
+easy,hr,easy_036_hr.png,03,0.7449,
+easy,hr,easy_037_hr.png,309,0.1089,
+easy,hr,easy_038_hr.png,Sennce,0.1425,
+easy,hr,easy_039_hr.png,Cetet,0.1297,
+easy,hr,easy_040_hr.png,SIEMENS,0.9995,
+easy,hr,easy_041_hr.png,SIEMENS,0.9879,
+easy,hr,easy_042_hr.png,SIEMENS,0.9995,
+easy,hr,easy_043_hr.png,SIEMENS,0.9989,
+easy,hr,easy_044_hr.png,SIEMENS,0.5423,
+easy,hr,easy_045_hr.png,SiMENS,0.5481,
+easy,hr,easy_046_hr.png,SiMENS,0.461,
+easy,hr,easy_047_hr.png,SIEMENS,0.9433,
+easy,hr,easy_048_hr.png,SIEMENS,0.9982,
+easy,hr,easy_049_hr.png,SIEMENS,0.9879,
+easy,hr,easy_050_hr.png,SIEMENS,0.9996,
+easy,hr,easy_051_hr.png,SIEMENS,0.8634,
+easy,hr,easy_052_hr.png,SIEMENS,0.9983,
+easy,hr,easy_053_hr.png,SIEMENS,0.9772,
+easy,hr,easy_054_hr.png,SIEMENS,0.8438,
+easy,hr,easy_055_hr.png,SIEMENS,0.8037,
+easy,hr,easy_056_hr.png,SIE;,0.6189,
+easy,hr,easy_057_hr.png,siEMeNS,0.1309,
+easy,hr,easy_058_hr.png,SIEMENS,0.8311,
+easy,hr,easy_059_hr.png,SIEMENS,0.9991,
+easy,hr,easy_060_hr.png,SIEMENS,0.9922,
+easy,hr,easy_061_hr.png,SIEMENS,0.9917,
+easy,hr,easy_062_hr.png,SIEMENS,0.9993,
+easy,hr,easy_063_hr.png,SIEMENS,0.9729,
+easy,hr,easy_064_hr.png,SIEMENS,0.9762,
+easy,hr,easy_065_hr.png,SIEMENS,0.9976,
+easy,hr,easy_066_hr.png,SIL !,0.1388,
+easy,hr,easy_067_hr.png,SMEMF,0.1351,
+easy,hr,easy_068_hr.png,Shemens,0.2029,
+easy,hr,easy_069_hr.png,SIEMENS,0.9025,
+easy,hr,easy_070_hr.png,SIEMENS,0.999,
+easy,hr,easy_071_hr.png,Diagnostic,0.7686,
+easy,hr,easy_072_hr.png,Building,0.7017,
+easy,hr,easy_073_hr.png,Diagnosuc,0.9349,
+easy,hr,easy_074_hr.png,Building,0.9996,
+easy,hr,easy_075_hr.png,Diagnostc,0.8813,
+easy,hr,easy_076_hr.png,Building,0.5181,
+easy,hr,easy_077_hr.png,Diagnosuc,0.5129,
+easy,hr,easy_078_hr.png,Building,0.801,
+easy,hr,easy_079_hr.png,Diagnose,0.3376,
+easy,hr,easy_080_hr.png,Building,0.9138,
+easy,hr,easy_081_hr.png,Jonathan,0.8542,
+easy,hr,easy_082_hr.png,Groum,0.7576,
+easy,hr,easy_083_hr.png,Galore,0.9983,
+easy,hr,easy_084_hr.png,Galore,0.6345,
+easy,hr,easy_085_hr.png,Gron,0.256,
+easy,hr,easy_086_hr.png,Grcup,0.6557,
+easy,hr,easy_087_hr.png,Gr,0.1804,
+easy,hr,easy_088_hr.png,Galore,0.9131,
+easy,hr,easy_089_hr.png,Group,0.7642,
+easy,hr,easy_090_hr.png,Galore,0.6602,
+easy,hr,easy_091_hr.png,Galom,0.182,
+easy,hr,easy_092_hr.png,Gi- ~UF,0.1393,
+easy,hr,easy_093_hr.png,Galore,0.8859,
+easy,hr,easy_094_hr.png,Group,0.9862,
+easy,hr,easy_095_hr.png,Galore,0.9954,
+easy,hr,easy_096_hr.png,Graup,0.4659,
+easy,hr,easy_097_hr.png,Galore,0.9981,
+easy,hr,easy_098_hr.png,Ch--,0.2204,
+easy,hr,easy_099_hr.png,0,0.0369,
+easy,hr,easy_100_hr.png,Char,0.9102,
+medium,bicubic,medium_001_lr_bicubic.png,QuicY,0.5437,
+medium,bicubic,medium_002_lr_bicubic.png,nun,0.149,
+medium,bicubic,medium_003_lr_bicubic.png,Hann,0.0007,
+medium,bicubic,medium_004_lr_bicubic.png,Ii _am: 1| Q0,0.0084,
+medium,bicubic,medium_005_lr_bicubic.png,Sat,0.1388,
+medium,bicubic,medium_006_lr_bicubic.png,Sun,0.6833,
+medium,bicubic,medium_007_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_008_lr_bicubic.png,CALIFORIIA,0.2653,
+medium,bicubic,medium_009_lr_bicubic.png,ctot,0.0971,
+medium,bicubic,medium_010_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_011_lr_bicubic.png,Le,0.004,
+medium,bicubic,medium_012_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_013_lr_bicubic.png,Wecer,0.2146,
+medium,bicubic,medium_014_lr_bicubic.png,Lscoy,0.0922,
+medium,bicubic,medium_015_lr_bicubic.png,Sadcd,0.0374,
+medium,bicubic,medium_016_lr_bicubic.png,Ju,0.0132,
+medium,bicubic,medium_017_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_018_lr_bicubic.png,e,0.1893,
+medium,bicubic,medium_019_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_020_lr_bicubic.png,3,0.0174,
+medium,bicubic,medium_021_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_022_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_023_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_024_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_025_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_026_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_027_lr_bicubic.png,See,0.0041,
+medium,bicubic,medium_028_lr_bicubic.png,e,0.0464,
+medium,bicubic,medium_029_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_030_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_031_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_032_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_033_lr_bicubic.png,enal,0.0556,
+medium,bicubic,medium_034_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_035_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_036_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_037_lr_bicubic.png,Sa,0.0068,
+medium,bicubic,medium_038_lr_bicubic.png,Ce,0.0364,
+medium,bicubic,medium_039_lr_bicubic.png,DCm,0.018,
+medium,bicubic,medium_040_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_041_lr_bicubic.png,Dtto,0.0053,
+medium,bicubic,medium_042_lr_bicubic.png,Dd,0.0318,
+medium,bicubic,medium_043_lr_bicubic.png,Ied,0.002,
+medium,bicubic,medium_044_lr_bicubic.png,Ge,0.0247,
+medium,bicubic,medium_045_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_046_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_047_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_048_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_049_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_050_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_051_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_052_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_053_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_054_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_055_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_056_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_057_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_058_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_059_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_060_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_061_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_062_lr_bicubic.png,La,0.0306,
+medium,bicubic,medium_063_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_064_lr_bicubic.png,s,0.0718,
+medium,bicubic,medium_065_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_066_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_067_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_068_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_069_lr_bicubic.png,Grec,0.044,
+medium,bicubic,medium_070_lr_bicubic.png,Caae,0.0011,
+medium,bicubic,medium_071_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_072_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_073_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_074_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_075_lr_bicubic.png,Bs,0.0021,
+medium,bicubic,medium_076_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_077_lr_bicubic.png,diciGnct,0.0414,
+medium,bicubic,medium_078_lr_bicubic.png,Catgi,0.0013,
+medium,bicubic,medium_079_lr_bicubic.png,Od,0.0101,
+medium,bicubic,medium_080_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_081_lr_bicubic.png,I,0.0327,
+medium,bicubic,medium_082_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_083_lr_bicubic.png,Cuboc,0.0143,
+medium,bicubic,medium_084_lr_bicubic.png,Jeee -,0.0035,
+medium,bicubic,medium_085_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_086_lr_bicubic.png,(oosto,0.1664,
+medium,bicubic,medium_087_lr_bicubic.png,Ad,0.0081,
+medium,bicubic,medium_088_lr_bicubic.png,3e,0.0023,
+medium,bicubic,medium_089_lr_bicubic.png,Ocoy,0.1507,
+medium,bicubic,medium_090_lr_bicubic.png,e,0.1505,
+medium,bicubic,medium_091_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_092_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_093_lr_bicubic.png,Usae,0.0192,
+medium,bicubic,medium_094_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_095_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_096_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_097_lr_bicubic.png,a,0.0668,
+medium,bicubic,medium_098_lr_bicubic.png,,0.0,No text detected
+medium,bicubic,medium_099_lr_bicubic.png,e,0.0655,
+medium,bicubic,medium_100_lr_bicubic.png,,0.0,No text detected
+medium,sr_realesrgan,medium_001_lr_realesrgan.png,QyiKY,0.2167,
+medium,sr_realesrgan,medium_002_lr_realesrgan.png,tur,0.6279,
+medium,sr_realesrgan,medium_003_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_004_lr_realesrgan.png,I1idO am . 100,0.0339,
+medium,sr_realesrgan,medium_005_lr_realesrgan.png,Eat,0.1199,
+medium,sr_realesrgan,medium_006_lr_realesrgan.png,Sun,0.7119,
+medium,sr_realesrgan,medium_007_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_008_lr_realesrgan.png,CALIFOAID,0.2417,
+medium,sr_realesrgan,medium_009_lr_realesrgan.png,1,0.115,
+medium,sr_realesrgan,medium_010_lr_realesrgan.png,Mk,0.2296,
+medium,sr_realesrgan,medium_011_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_012_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_013_lr_realesrgan.png,Ucutor,0.083,
+medium,sr_realesrgan,medium_014_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_015_lr_realesrgan.png,Ancei,0.1173,
+medium,sr_realesrgan,medium_016_lr_realesrgan.png,ULE,0.0391,
+medium,sr_realesrgan,medium_017_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_018_lr_realesrgan.png,Yolc,0.0178,
+medium,sr_realesrgan,medium_019_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_020_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_021_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_022_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_023_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_024_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_025_lr_realesrgan.png,"104n6,e",0.0173,
+medium,sr_realesrgan,medium_026_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_027_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_028_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_029_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_030_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_031_lr_realesrgan.png,ma)D,0.0629,
+medium,sr_realesrgan,medium_032_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_033_lr_realesrgan.png,iomi Rrtd,0.0677,
+medium,sr_realesrgan,medium_034_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_035_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_036_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_037_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_038_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_039_lr_realesrgan.png,IWy WUDeIN @,0.0383,
+medium,sr_realesrgan,medium_040_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_041_lr_realesrgan.png,Dinioub@),0.1947,
+medium,sr_realesrgan,medium_042_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_043_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_044_lr_realesrgan.png,Paniotxm,0.004,
+medium,sr_realesrgan,medium_045_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_046_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_047_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_048_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_049_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_050_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_051_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_052_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_053_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_054_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_055_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_056_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_057_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_058_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_059_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_060_lr_realesrgan.png,Uie,0.0953,
+medium,sr_realesrgan,medium_061_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_062_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_063_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_064_lr_realesrgan.png,C,0.351,
+medium,sr_realesrgan,medium_065_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_066_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_067_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_068_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_069_lr_realesrgan.png,@tOWWJIJ,0.0262,
+medium,sr_realesrgan,medium_070_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_071_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_072_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_073_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_074_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_075_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_076_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_077_lr_realesrgan.png,ddlctonol,0.1501,
+medium,sr_realesrgan,medium_078_lr_realesrgan.png,Mngeu Wunldes,0.0412,
+medium,sr_realesrgan,medium_079_lr_realesrgan.png,Uus&,0.051,
+medium,sr_realesrgan,medium_080_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_081_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_082_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_083_lr_realesrgan.png,Oulaudc,0.3994,
+medium,sr_realesrgan,medium_084_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_085_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_086_lr_realesrgan.png,todbled,0.4305,
+medium,sr_realesrgan,medium_087_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_088_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_089_lr_realesrgan.png,6gpy,0.1063,
+medium,sr_realesrgan,medium_090_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_091_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_092_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_093_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_094_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_095_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_096_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_097_lr_realesrgan.png,G',0.095,
+medium,sr_realesrgan,medium_098_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_099_lr_realesrgan.png,,0.0,No text detected
+medium,sr_realesrgan,medium_100_lr_realesrgan.png,,0.0,No text detected
+medium,sr_tsrn,medium_001_lr_tsrn.png,Quickly,0.3126,
+medium,sr_tsrn,medium_002_lr_tsrn.png,thur,0.9834,
+medium,sr_tsrn,medium_003_lr_tsrn.png,fro,0.0132,
+medium,sr_tsrn,medium_004_lr_tsrn.png,"I1kOdam . I1,o0",0.0971,
+medium,sr_tsrn,medium_005_lr_tsrn.png,Sat,0.2972,
+medium,sr_tsrn,medium_006_lr_tsrn.png,Sun,0.4029,
+medium,sr_tsrn,medium_007_lr_tsrn.png,MEAL,0.2338,
+medium,sr_tsrn,medium_008_lr_tsrn.png,CALIFORIIA,0.7356,
+medium,sr_tsrn,medium_009_lr_tsrn.png,ckllfoprtn,0.1614,
+medium,sr_tsrn,medium_010_lr_tsrn.png,PAFc,0.0954,
+medium,sr_tsrn,medium_011_lr_tsrn.png,79e,0.0232,
+medium,sr_tsrn,medium_012_lr_tsrn.png,IUGS,0.0211,
+medium,sr_tsrn,medium_013_lr_tsrn.png,Wctor,0.2374,
+medium,sr_tsrn,medium_014_lr_tsrn.png,Dscdy,0.095,
+medium,sr_tsrn,medium_015_lr_tsrn.png,Aadod,0.3393,
+medium,sr_tsrn,medium_016_lr_tsrn.png,Te,0.0471,
+medium,sr_tsrn,medium_017_lr_tsrn.png,S_,0.0274,
+medium,sr_tsrn,medium_018_lr_tsrn.png,Jovc,0.0376,
+medium,sr_tsrn,medium_019_lr_tsrn.png,Ia{,0.0144,
+medium,sr_tsrn,medium_020_lr_tsrn.png,+,0.028,
+medium,sr_tsrn,medium_021_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_022_lr_tsrn.png,Je =,0.0622,
+medium,sr_tsrn,medium_023_lr_tsrn.png,T,0.1726,
+medium,sr_tsrn,medium_024_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_025_lr_tsrn.png,Lanocac,0.0871,
+medium,sr_tsrn,medium_026_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_027_lr_tsrn.png,ba-,0.2105,
+medium,sr_tsrn,medium_028_lr_tsrn.png,,0.0,
+medium,sr_tsrn,medium_029_lr_tsrn.png,D,0.3799,
+medium,sr_tsrn,medium_030_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_031_lr_tsrn.png,paunix,0.3195,
+medium,sr_tsrn,medium_032_lr_tsrn.png,(,0.0328,
+medium,sr_tsrn,medium_033_lr_tsrn.png,Csplain,0.5682,
+medium,sr_tsrn,medium_034_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_035_lr_tsrn.png,Lb_,0.0605,
+medium,sr_tsrn,medium_036_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_037_lr_tsrn.png,eceor,0.168,
+medium,sr_tsrn,medium_038_lr_tsrn.png,TecL,0.0402,
+medium,sr_tsrn,medium_039_lr_tsrn.png,boom,0.6014,
+medium,sr_tsrn,medium_040_lr_tsrn.png,boan,0.7864,
+medium,sr_tsrn,medium_041_lr_tsrn.png,bchina,0.988,
+medium,sr_tsrn,medium_042_lr_tsrn.png,bctung,0.3119,
+medium,sr_tsrn,medium_043_lr_tsrn.png,tE,0.1709,
+medium,sr_tsrn,medium_044_lr_tsrn.png,pQvoded,0.1343,
+medium,sr_tsrn,medium_045_lr_tsrn.png,Oi,0.0878,
+medium,sr_tsrn,medium_046_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_047_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_048_lr_tsrn.png,On,0.0131,
+medium,sr_tsrn,medium_049_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_050_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_051_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_052_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_053_lr_tsrn.png,'S6,0.2085,
+medium,sr_tsrn,medium_054_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_055_lr_tsrn.png,2,0.0277,
+medium,sr_tsrn,medium_056_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_057_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_058_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_059_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_060_lr_tsrn.png,Aoille,0.0538,
+medium,sr_tsrn,medium_061_lr_tsrn.png,Snnc,0.0008,
+medium,sr_tsrn,medium_062_lr_tsrn.png,Dc,0.096,
+medium,sr_tsrn,medium_063_lr_tsrn.png,Ce,0.0193,
+medium,sr_tsrn,medium_064_lr_tsrn.png,Oe,0.5272,
+medium,sr_tsrn,medium_065_lr_tsrn.png,Bite,0.0866,
+medium,sr_tsrn,medium_066_lr_tsrn.png,1,0.0658,
+medium,sr_tsrn,medium_067_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_068_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_069_lr_tsrn.png,cnough,0.6005,
+medium,sr_tsrn,medium_070_lr_tsrn.png,nnaua,0.0911,
+medium,sr_tsrn,medium_071_lr_tsrn.png,Js,0.022,
+medium,sr_tsrn,medium_072_lr_tsrn.png,1,0.0172,
+medium,sr_tsrn,medium_073_lr_tsrn.png,td,0.0402,
+medium,sr_tsrn,medium_074_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_075_lr_tsrn.png,t,0.2216,
+medium,sr_tsrn,medium_076_lr_tsrn.png,1,0.0272,
+medium,sr_tsrn,medium_077_lr_tsrn.png,dillerence,0.6613,
+medium,sr_tsrn,medium_078_lr_tsrn.png,snicrrnce,0.1869,
+medium,sr_tsrn,medium_079_lr_tsrn.png,Wkale,0.1074,
+medium,sr_tsrn,medium_080_lr_tsrn.png,Map,0.0422,
+medium,sr_tsrn,medium_081_lr_tsrn.png,tre,0.0607,
+medium,sr_tsrn,medium_082_lr_tsrn.png,S,0.0133,
+medium,sr_tsrn,medium_083_lr_tsrn.png,outsadc,0.1438,
+medium,sr_tsrn,medium_084_lr_tsrn.png,outsst,0.1042,
+medium,sr_tsrn,medium_085_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_086_lr_tsrn.png,toasico,0.852,
+medium,sr_tsrn,medium_087_lr_tsrn.png,Ioasca,0.2466,
+medium,sr_tsrn,medium_088_lr_tsrn.png,Gnd,0.0279,
+medium,sr_tsrn,medium_089_lr_tsrn.png,Cnsdy,0.293,
+medium,sr_tsrn,medium_090_lr_tsrn.png,Drocy-,0.0857,
+medium,sr_tsrn,medium_091_lr_tsrn.png,45?,0.0252,
+medium,sr_tsrn,medium_092_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_093_lr_tsrn.png,Insidc,0.215,
+medium,sr_tsrn,medium_094_lr_tsrn.png,Cndus,0.0164,
+medium,sr_tsrn,medium_095_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_096_lr_tsrn.png,,0.0,No text detected
+medium,sr_tsrn,medium_097_lr_tsrn.png,chovo,0.2401,
+medium,sr_tsrn,medium_098_lr_tsrn.png,Ot,0.1568,
+medium,sr_tsrn,medium_099_lr_tsrn.png,Fo,0.0161,
+medium,sr_tsrn,medium_100_lr_tsrn.png,,0.0,No text detected
+medium,hr,medium_001_hr.png,Quickiy,0.6217,
+medium,hr,medium_002_hr.png,thur,0.9993,
+medium,hr,medium_003_hr.png,Tni,0.041,
+medium,hr,medium_004_hr.png,"11,00 am - 11,00",0.6591,
+medium,hr,medium_005_hr.png,Sat,0.8325,
+medium,hr,medium_006_hr.png,Sun,0.5907,
+medium,hr,medium_007_hr.png,RBAL,0.9549,
+medium,hr,medium_008_hr.png,CALIFORNIA,0.9918,
+medium,hr,medium_009_hr.png,CALIFORNIA,0.9939,
+medium,hr,medium_010_hr.png,MILK,0.9096,
+medium,hr,medium_011_hr.png,,0.0,No text detected
+medium,hr,medium_012_hr.png,,0.0,No text detected
+medium,hr,medium_013_hr.png,Ucter,0.4622,
+medium,hr,medium_014_hr.png,UGter,0.1952,
+medium,hr,medium_015_hr.png,Acded,0.7024,
+medium,hr,medium_016_hr.png,T6e,0.0222,
+medium,hr,medium_017_hr.png,Tne,0.2247,
+medium,hr,medium_018_hr.png,Jeve,0.4226,
+medium,hr,medium_019_hr.png,Jove,0.6493,
+medium,hr,medium_020_hr.png,C1,0.021,
+medium,hr,medium_021_hr.png,C,0.0356,
+medium,hr,medium_022_hr.png,JOGE,0.1123,
+medium,hr,medium_023_hr.png,Ebe,0.0138,
+medium,hr,medium_024_hr.png,t,0.0446,
+medium,hr,medium_025_hr.png,Japanese,0.9569,
+medium,hr,medium_026_hr.png,Japanese,0.9955,
+medium,hr,medium_027_hr.png,nave,0.4531,
+medium,hr,medium_028_hr.png,pae,0.7793,
+medium,hr,medium_029_hr.png,moey,0.1262,
+medium,hr,medium_030_hr.png,0ay,0.1126,
+medium,hr,medium_031_hr.png,aarally,0.5882,
+medium,hr,medium_032_hr.png,panally,0.7121,
+medium,hr,medium_033_hr.png,exalain,0.7966,
+medium,hr,medium_034_hr.png,exolain,0.7135,
+medium,hr,medium_035_hr.png,ph,0.0655,
+medium,hr,medium_036_hr.png,Dae,0.2296,
+medium,hr,medium_037_hr.png,esent,0.5072,
+medium,hr,medium_038_hr.png,Tecenk,0.3266,
+medium,hr,medium_039_hr.png,bbom,0.1047,
+medium,hr,medium_040_hr.png,poom,0.2123,
+medium,hr,medium_041_hr.png,behind,0.4009,
+medium,hr,medium_042_hr.png,benind,0.6551,
+medium,hr,medium_043_hr.png,JJe,0.0434,
+medium,hr,medium_044_hr.png,ounded,0.8172,
+medium,hr,medium_045_hr.png,pounded,0.9266,
+medium,hr,medium_046_hr.png,Tice,0.1127,
+medium,hr,medium_047_hr.png,De,0.0063,
+medium,hr,medium_048_hr.png,Cake,0.6348,
+medium,hr,medium_049_hr.png,Cake,0.1408,
+medium,hr,medium_050_hr.png,,0.0,No text detected
+medium,hr,medium_051_hr.png,Kle,0.084,
+medium,hr,medium_052_hr.png,Day,0.5095,
+medium,hr,medium_053_hr.png,Jeek,0.1925,
+medium,hr,medium_054_hr.png,JoS,0.0361,
+medium,hr,medium_055_hr.png,Jls*,0.0334,
+medium,hr,medium_056_hr.png,3nSk,0.0113,
+medium,hr,medium_057_hr.png,Jara,0.0219,
+medium,hr,medium_058_hr.png,K,0.0252,
+medium,hr,medium_059_hr.png,,0.0,No text detected
+medium,hr,medium_060_hr.png,Daifle,0.2167,
+medium,hr,medium_061_hr.png,CDlile,0.0736,
+medium,hr,medium_062_hr.png,Aar,0.0205,
+medium,hr,medium_063_hr.png,ut,0.9165,
+medium,hr,medium_064_hr.png,n,0.1569,
+medium,hr,medium_065_hr.png,Dite,0.2677,
+medium,hr,medium_066_hr.png,aut,0.1275,
+medium,hr,medium_067_hr.png,,0.0,No text detected
+medium,hr,medium_068_hr.png,,0.0,No text detected
+medium,hr,medium_069_hr.png,enough,0.3138,
+medium,hr,medium_070_hr.png,enough,0.8991,
+medium,hr,medium_071_hr.png,Ja,0.0144,
+medium,hr,medium_072_hr.png,J7,0.004,
+medium,hr,medium_073_hr.png,Ri,0.0688,
+medium,hr,medium_074_hr.png,e,0.9823,
+medium,hr,medium_075_hr.png,ne,0.1822,
+medium,hr,medium_076_hr.png,Oe,0.0688,
+medium,hr,medium_077_hr.png,diflerence,0.733,
+medium,hr,medium_078_hr.png,dilference,0.535,
+medium,hr,medium_079_hr.png,Wnile,0.4866,
+medium,hr,medium_080_hr.png,Nuhile,0.0894,
+medium,hr,medium_081_hr.png,Rnt,0.055,
+medium,hr,medium_082_hr.png,c,0.1888,
+medium,hr,medium_083_hr.png,ouiside,0.3714,
+medium,hr,medium_084_hr.png,oulSide,0.2588,
+medium,hr,medium_085_hr.png,,0.0,No text detected
+medium,hr,medium_086_hr.png,toasted,0.9639,
+medium,hr,medium_087_hr.png,toasted,0.7133,
+medium,hr,medium_088_hr.png,Ziad,0.1489,
+medium,hr,medium_089_hr.png,crspy,0.6035,
+medium,hr,medium_090_hr.png,crspy,0.6716,
+medium,hr,medium_091_hr.png,LOe,0.1171,
+medium,hr,medium_092_hr.png,4e,0.1704,
+medium,hr,medium_093_hr.png,inside,0.9253,
+medium,hr,medium_094_hr.png,inside,0.8525,
+medium,hr,medium_095_hr.png,,0.0,No text detected
+medium,hr,medium_096_hr.png,,0.0,No text detected
+medium,hr,medium_097_hr.png,chewy,0.2294,
+medium,hr,medium_098_hr.png,cher?,0.1138,
+medium,hr,medium_099_hr.png,Ebr,0.095,
+medium,hr,medium_100_hr.png,@d,0.0936,
+hard,bicubic,hard_001_lr_bicubic.png,Cucj,0.0113,
+hard,bicubic,hard_002_lr_bicubic.png,WE RE,0.7575,
+hard,bicubic,hard_003_lr_bicubic.png,HIRING,0.5534,
+hard,bicubic,hard_004_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_005_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_006_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_007_lr_bicubic.png,Il @oon: Im,0.0117,
+hard,bicubic,hard_008_lr_bicubic.png,Jlme Jim,0.2509,
+hard,bicubic,hard_009_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_010_lr_bicubic.png,Mwen: Im,0.0274,
+hard,bicubic,hard_011_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_012_lr_bicubic.png,M Mon: Im,0.0255,
+hard,bicubic,hard_013_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_014_lr_bicubic.png,Maden: I,0.0649,
+hard,bicubic,hard_015_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_016_lr_bicubic.png,Ed5,0.0051,
+hard,bicubic,hard_017_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_018_lr_bicubic.png,Sollcitatli,0.1255,
+hard,bicubic,hard_019_lr_bicubic.png,8orcn,0.0082,
+hard,bicubic,hard_020_lr_bicubic.png,Quickly,0.7878,
+hard,bicubic,hard_021_lr_bicubic.png,UckUSA,0.1484,
+hard,bicubic,hard_022_lr_bicubic.png,Hokado,0.3886,
+hard,bicubic,hard_023_lr_bicubic.png,Caramci,0.3952,
+hard,bicubic,hard_024_lr_bicubic.png,Can,0.0337,
+hard,bicubic,hard_025_lr_bicubic.png,Oansmd,0.12,
+hard,bicubic,hard_026_lr_bicubic.png,orn,0.2132,
+hard,bicubic,hard_027_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_028_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_029_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_030_lr_bicubic.png,Mu,0.8504,
+hard,bicubic,hard_031_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_032_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_033_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_034_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_035_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_036_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_037_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_038_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_039_lr_bicubic.png,Du=,0.3096,
+hard,bicubic,hard_040_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_041_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_042_lr_bicubic.png,Moc,0.078,
+hard,bicubic,hard_043_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_044_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_045_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_046_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_047_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_048_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_049_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_050_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_051_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_052_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_053_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_054_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_055_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_056_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_057_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_058_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_059_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_060_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_061_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_062_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_063_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_064_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_065_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_066_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_067_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_068_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_069_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_070_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_071_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_072_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_073_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_074_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_075_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_076_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_077_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_078_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_079_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_080_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_081_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_082_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_083_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_084_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_085_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_086_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_087_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_088_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_089_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_090_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_091_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_092_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_093_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_094_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_095_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_096_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_097_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_098_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_099_lr_bicubic.png,,0.0,No text detected
+hard,bicubic,hard_100_lr_bicubic.png,,0.0,No text detected
+hard,sr_realesrgan,hard_001_lr_realesrgan.png,UilWLIA,0.0621,
+hard,sr_realesrgan,hard_002_lr_realesrgan.png,WE RE,0.9627,
+hard,sr_realesrgan,hard_003_lr_realesrgan.png,HIRIHG,0.5403,
+hard,sr_realesrgan,hard_004_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_005_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_006_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_007_lr_realesrgan.png,IlvOO On) ' I|xo,0.1413,
+hard,sr_realesrgan,hard_008_lr_realesrgan.png,IK,0.1398,
+hard,sr_realesrgan,hard_009_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_010_lr_realesrgan.png,"I,oO Um "" Ioo",0.1866,
+hard,sr_realesrgan,hard_011_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_012_lr_realesrgan.png,IlOO Ilo,0.3033,
+hard,sr_realesrgan,hard_013_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_014_lr_realesrgan.png,Il;od um v MOo,0.1346,
+hard,sr_realesrgan,hard_015_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_016_lr_realesrgan.png,0o,0.0423,
+hard,sr_realesrgan,hard_017_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_018_lr_realesrgan.png,Sollclltl,0.5771,
+hard,sr_realesrgan,hard_019_lr_realesrgan.png,OBKIDuc,0.0386,
+hard,sr_realesrgan,hard_020_lr_realesrgan.png,Quidkly,0.7265,
+hard,sr_realesrgan,hard_021_lr_realesrgan.png,uickUSA,0.9856,
+hard,sr_realesrgan,hard_022_lr_realesrgan.png,Holaldo,0.5569,
+hard,sr_realesrgan,hard_023_lr_realesrgan.png,Caranel,0.6991,
+hard,sr_realesrgan,hard_024_lr_realesrgan.png,fuei,0.0599,
+hard,sr_realesrgan,hard_025_lr_realesrgan.png,Oklaowa,0.3056,
+hard,sr_realesrgan,hard_026_lr_realesrgan.png,HOJJI,0.53,
+hard,sr_realesrgan,hard_027_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_028_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_029_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_030_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_031_lr_realesrgan.png,WIM OVcMMISA,0.3656,
+hard,sr_realesrgan,hard_032_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_033_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_034_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_035_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_036_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_037_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_038_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_039_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_040_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_041_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_042_lr_realesrgan.png,087,0.0258,
+hard,sr_realesrgan,hard_043_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_044_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_045_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_046_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_047_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_048_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_049_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_050_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_051_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_052_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_053_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_054_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_055_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_056_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_057_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_058_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_059_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_060_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_061_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_062_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_063_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_064_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_065_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_066_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_067_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_068_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_069_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_070_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_071_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_072_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_073_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_074_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_075_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_076_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_077_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_078_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_079_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_080_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_081_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_082_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_083_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_084_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_085_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_086_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_087_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_088_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_089_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_090_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_091_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_092_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_093_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_094_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_095_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_096_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_097_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_098_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_099_lr_realesrgan.png,,0.0,No text detected
+hard,sr_realesrgan,hard_100_lr_realesrgan.png,,0.0,No text detected
+hard,sr_tsrn,hard_001_lr_tsrn.png,Quickiy,0.2354,
+hard,sr_tsrn,hard_002_lr_tsrn.png,WE RE,0.884,
+hard,sr_tsrn,hard_003_lr_tsrn.png,HIRING,0.9446,
+hard,sr_tsrn,hard_004_lr_tsrn.png,Usto,0.0736,
+hard,sr_tsrn,hard_005_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_006_lr_tsrn.png,thur,0.6144,
+hard,sr_tsrn,hard_007_lr_tsrn.png,"IlOD,0m : I1,",0.0425,
+hard,sr_tsrn,hard_008_lr_tsrn.png,ILcno . IO,0.0151,
+hard,sr_tsrn,hard_009_lr_tsrn.png,Ln,0.0045,
+hard,sr_tsrn,hard_010_lr_tsrn.png,"II,00 am . |1,du",0.0363,
+hard,sr_tsrn,hard_011_lr_tsrn.png,a2,0.1021,
+hard,sr_tsrn,hard_012_lr_tsrn.png,I.O0om : IO,0.1047,
+hard,sr_tsrn,hard_013_lr_tsrn.png,SC,0.0902,
+hard,sr_tsrn,hard_014_lr_tsrn.png,Il Odam : |1o,0.0285,
+hard,sr_tsrn,hard_015_lr_tsrn.png,Ilm,0.5784,
+hard,sr_tsrn,hard_016_lr_tsrn.png,0o,0.2072,
+hard,sr_tsrn,hard_017_lr_tsrn.png,Fi@,0.0088,
+hard,sr_tsrn,hard_018_lr_tsrn.png,Sollcltatl ,0.6945,
+hard,sr_tsrn,hard_019_lr_tsrn.png,8ollcltotle,0.396,
+hard,sr_tsrn,hard_020_lr_tsrn.png,Quickly,0.9958,
+hard,sr_tsrn,hard_021_lr_tsrn.png,UicklUSA,0.604,
+hard,sr_tsrn,hard_022_lr_tsrn.png,HolJialdo,0.5225,
+hard,sr_tsrn,hard_023_lr_tsrn.png,Caramel,0.8233,
+hard,sr_tsrn,hard_024_lr_tsrn.png,Caramel,0.5694,
+hard,sr_tsrn,hard_025_lr_tsrn.png,Oldnawa,0.4492,
+hard,sr_tsrn,hard_026_lr_tsrn.png,Brown,0.9442,
+hard,sr_tsrn,hard_027_lr_tsrn.png,Otosn,0.3515,
+hard,sr_tsrn,hard_028_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_029_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_030_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_031_lr_tsrn.png,WmuCucsusa,0.0447,
+hard,sr_tsrn,hard_032_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_033_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_034_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_035_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_036_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_037_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_038_lr_tsrn.png,J,0.0667,
+hard,sr_tsrn,hard_039_lr_tsrn.png,Ou,0.2173,
+hard,sr_tsrn,hard_040_lr_tsrn.png,nosnu,0.1894,
+hard,sr_tsrn,hard_041_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_042_lr_tsrn.png,Mocr,0.4974,
+hard,sr_tsrn,hard_043_lr_tsrn.png,MGcI,0.0123,
+hard,sr_tsrn,hard_044_lr_tsrn.png,Enae,0.019,
+hard,sr_tsrn,hard_045_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_046_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_047_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_048_lr_tsrn.png,Owaroo,0.1795,
+hard,sr_tsrn,hard_049_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_050_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_051_lr_tsrn.png,F3,0.0049,
+hard,sr_tsrn,hard_052_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_053_lr_tsrn.png,J9,0.0073,
+hard,sr_tsrn,hard_054_lr_tsrn.png,20,0.7541,
+hard,sr_tsrn,hard_055_lr_tsrn.png,22,0.9748,
+hard,sr_tsrn,hard_056_lr_tsrn.png,203,0.1542,
+hard,sr_tsrn,hard_057_lr_tsrn.png,Fel?,0.0021,
+hard,sr_tsrn,hard_058_lr_tsrn.png,noje,0.2054,
+hard,sr_tsrn,hard_059_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_060_lr_tsrn.png,30,0.4268,
+hard,sr_tsrn,hard_061_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_062_lr_tsrn.png,=or,0.0796,
+hard,sr_tsrn,hard_063_lr_tsrn.png,Ce8,0.0709,
+hard,sr_tsrn,hard_064_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_065_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_066_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_067_lr_tsrn.png,Feac,0.0322,
+hard,sr_tsrn,hard_068_lr_tsrn.png,293,0.1016,
+hard,sr_tsrn,hard_069_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_070_lr_tsrn.png,CDUo,0.0889,
+hard,sr_tsrn,hard_071_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_072_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_073_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_074_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_075_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_076_lr_tsrn.png,20,0.9941,
+hard,sr_tsrn,hard_077_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_078_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_079_lr_tsrn.png,Srn,0.0019,
+hard,sr_tsrn,hard_080_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_081_lr_tsrn.png,oan,0.1572,
+hard,sr_tsrn,hard_082_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_083_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_084_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_085_lr_tsrn.png,C2,0.0889,
+hard,sr_tsrn,hard_086_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_087_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_088_lr_tsrn.png,O,0.2385,
+hard,sr_tsrn,hard_089_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_090_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_091_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_092_lr_tsrn.png,6r2,0.0233,
+hard,sr_tsrn,hard_093_lr_tsrn.png,3,0.0136,
+hard,sr_tsrn,hard_094_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_095_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_096_lr_tsrn.png,U,0.0086,
+hard,sr_tsrn,hard_097_lr_tsrn.png,,0.0,No text detected
+hard,sr_tsrn,hard_098_lr_tsrn.png,20,0.7478,
+hard,sr_tsrn,hard_099_lr_tsrn.png,22,0.2904,
+hard,sr_tsrn,hard_100_lr_tsrn.png,400,0.22,
+hard,hr,hard_001_hr.png,QuickY,0.2694,
+hard,hr,hard_002_hr.png,WE RE,0.8763,
+hard,hr,hard_003_hr.png,HIRING,0.9805,
+hard,hr,hard_004_hr.png,Jobs@quicMUSa con,0.3038,
+hard,hr,hard_005_hr.png,Joh @Quic yUSAwem,0.0944,
+hard,hr,hard_006_hr.png,thur,0.6168,
+hard,hr,hard_007_hr.png,"11,00 am - 11,00",0.3764,
+hard,hr,hard_008_hr.png,"11 00am : 11,00",0.3388,
+hard,hr,hard_009_hr.png,Han,0.0049,
+hard,hr,hard_010_hr.png,"11,00 am - 11,00",0.3802,
+hard,hr,hard_011_hr.png,sat,0.5751,
+hard,hr,hard_012_hr.png,"11 00 am - 11,00",0.5047,
+hard,hr,hard_013_hr.png,Sun,0.5452,
+hard,hr,hard_014_hr.png,"11,00am - 11,00",0.3084,
+hard,hr,hard_015_hr.png,"I1 00am : 11,00",0.088,
+hard,hr,hard_016_hr.png,No,0.3096,
+hard,hr,hard_017_hr.png,Aao,0.0351,
+hard,hr,hard_018_hr.png,Solicitatic,0.8864,
+hard,hr,hard_019_hr.png,Solicltati,0.5999,
+hard,hr,hard_020_hr.png,Quickly,0.9188,
+hard,hr,hard_021_hr.png,uicklyUSA,0.8341,
+hard,hr,hard_022_hr.png,Hokkaido,0.6488,
+hard,hr,hard_023_hr.png,Caramel,0.6766,
+hard,hr,hard_024_hr.png,Caramei,0.9181,
+hard,hr,hard_025_hr.png,Okinawa,0.8079,
+hard,hr,hard_026_hr.png,Brown,0.2819,
+hard,hr,hard_027_hr.png,Brown,0.3385,
+hard,hr,hard_028_hr.png,Sman,0.1122,
+hard,hr,hard_029_hr.png,Saz,0.0636,
+hard,hr,hard_030_hr.png,,0.0,No text detected
+hard,hr,hard_031_hr.png,WM [ QuicklUSA cor,0.4272,
+hard,hr,hard_032_hr.png,28389,0.1422,
+hard,hr,hard_033_hr.png,Cs ,0.0562,
+hard,hr,hard_034_hr.png,,0.0,No text detected
+hard,hr,hard_035_hr.png,Quidlly,0.4721,
+hard,hr,hard_036_hr.png,uch,0.063,
+hard,hr,hard_037_hr.png,,0.0,No text detected
+hard,hr,hard_038_hr.png,,0.0,No text detected
+hard,hr,hard_039_hr.png,mlz,0.1212,
+hard,hr,hard_040_hr.png,Added,0.7522,
+hard,hr,hard_041_hr.png,Jralgenese,0.38,
+hard,hr,hard_042_hr.png,Mochi,0.4678,
+hard,hr,hard_043_hr.png,Mochf,0.2161,
+hard,hr,hard_044_hr.png,(ahe,0.1187,
+hard,hr,hard_045_hr.png,cuanta,0.165,
+hard,hr,hard_046_hr.png,Quickly,0.3705,
+hard,hr,hard_047_hr.png,Cn3e),0.0143,
+hard,hr,hard_048_hr.png,D ste511RCY,0.0293,
+hard,hr,hard_049_hr.png,06i,0.0267,
+hard,hr,hard_050_hr.png,E,0.0467,
+hard,hr,hard_051_hr.png,U,0.0043,
+hard,hr,hard_052_hr.png,3,0.0061,
+hard,hr,hard_053_hr.png,882,0.2093,
+hard,hr,hard_054_hr.png,20,0.8198,
+hard,hr,hard_055_hr.png,82,0.1848,
+hard,hr,hard_056_hr.png,Baer,0.0566,
+hard,hr,hard_057_hr.png,,0.0,No text detected
+hard,hr,hard_058_hr.png,Tede,0.1362,
+hard,hr,hard_059_hr.png,833,0.0173,
+hard,hr,hard_060_hr.png,208,0.2636,
+hard,hr,hard_061_hr.png,,0.0,No text detected
+hard,hr,hard_062_hr.png,Paper,0.1966,
+hard,hr,hard_063_hr.png,cody,0.2818,
+hard,hr,hard_064_hr.png,,0.0,No text detected
+hard,hr,hard_065_hr.png,,0.0,No text detected
+hard,hr,hard_066_hr.png,,0.0,No text detected
+hard,hr,hard_067_hr.png,73eds,0.0169,
+hard,hr,hard_068_hr.png,0,0.0471,
+hard,hr,hard_069_hr.png,,0.0,No text detected
+hard,hr,hard_070_hr.png,Drsiia,0.0559,
+hard,hr,hard_071_hr.png,,0.0,No text detected
+hard,hr,hard_072_hr.png,,0.0,No text detected
+hard,hr,hard_073_hr.png,,0.0,No text detected
+hard,hr,hard_074_hr.png,,0.0,No text detected
+hard,hr,hard_075_hr.png,553,0.5498,
+hard,hr,hard_076_hr.png,20,0.4877,
+hard,hr,hard_077_hr.png,2,0.3213,
+hard,hr,hard_078_hr.png,L,0.2046,
+hard,hr,hard_079_hr.png,0z2,0.0303,
+hard,hr,hard_080_hr.png,,0.0,No text detected
+hard,hr,hard_081_hr.png,[os,0.0441,
+hard,hr,hard_082_hr.png,,0.0,No text detected
+hard,hr,hard_083_hr.png,3,0.1328,
+hard,hr,hard_084_hr.png,pane,0.0301,
+hard,hr,hard_085_hr.png,Cin,0.0714,
+hard,hr,hard_086_hr.png,,0.0,No text detected
+hard,hr,hard_087_hr.png,,0.0,No text detected
+hard,hr,hard_088_hr.png,,0.0,No text detected
+hard,hr,hard_089_hr.png,,0.0,No text detected
+hard,hr,hard_090_hr.png,,0.0,No text detected
+hard,hr,hard_091_hr.png,Drras11ao,0.0302,
+hard,hr,hard_092_hr.png,,0.0,No text detected
+hard,hr,hard_093_hr.png,,0.0,No text detected
+hard,hr,hard_094_hr.png,n,0.0719,
+hard,hr,hard_095_hr.png,,0.0,No text detected
+hard,hr,hard_096_hr.png,3,0.2709,
+hard,hr,hard_097_hr.png,,0.0,No text detected
+hard,hr,hard_098_hr.png,20,0.9882,
+hard,hr,hard_099_hr.png,2,0.7503,
+hard,hr,hard_100_hr.png,Drde,0.0843,

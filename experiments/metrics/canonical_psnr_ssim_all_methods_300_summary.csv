@@ -1,0 +1,13 @@
+difficulty,method,num_images,mean_psnr,std_psnr,mean_ssim,std_ssim
+easy,bicubic,100,27.434,3.7659,0.753,0.0914
+easy,realesrgan,100,25.251,4.6568,0.6855,0.1113
+easy,tsrn,100,26.1927,2.5534,0.7959,0.0777
+medium,bicubic,100,18.9716,1.831,0.6244,0.0514
+medium,realesrgan,100,18.2256,2.0604,0.5738,0.0609
+medium,tsrn,100,22.2895,2.2081,0.6589,0.0531
+hard,bicubic,100,21.6796,2.1408,0.6073,0.0872
+hard,realesrgan,100,20.0599,2.5011,0.5683,0.0922
+hard,tsrn,100,20.8983,2.3127,0.6589,0.0828
+overall,bicubic,300,22.6951,4.4524,0.6616,0.1022
+overall,realesrgan,300,21.1789,4.425,0.6092,0.1054
+overall,tsrn,300,23.1268,3.2563,0.7046,0.097

@@ -1,0 +1,5 @@
+difficulty,num_images,mean_psnr,std_psnr,mean_ssim,std_ssim
+easy,100,26.1001,2.5172,0.7821,0.0955
+medium,100,22.2262,2.206,0.6433,0.057
+hard,100,20.8227,2.3283,0.6581,0.0757
+overall,300,23.0497,3.2438,0.6945,0.0995

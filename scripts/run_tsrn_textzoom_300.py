@@ -1,4 +1,4 @@
-"""Run the official TextZoom TSRN model on the balanced 300-image subset.
+﻿"""Run the official TextZoom TSRN model on the balanced 300-image subset.
 
 The official repository does not include a TSRN checkpoint.  Use --smoke-test
 to verify model compatibility, or pass a trained checkpoint with --checkpoint.
@@ -120,7 +120,7 @@ def extract_state_dict(checkpoint: object) -> dict[str, torch.Tensor]:
 def load_checkpoint(model: torch.nn.Module, path: Path, device: torch.device) -> None:
     if not path.exists():
         raise FileNotFoundError(f"TSRN checkpoint not found: {path}")
-    checkpoint = torch.load(path, map_location=device, weights_only=False)
+    checkpoint = torch.load(path, map_location=device, weights_only=True)
     state_dict = extract_state_dict(checkpoint)
     model.load_state_dict(state_dict, strict=True)
 
@@ -233,3 +233,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+

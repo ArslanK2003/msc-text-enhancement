@@ -1,0 +1,5 @@
+difficulty,bicubic,sr_realesrgan,sr_tsrn,hr
+easy,0.1315,0.1988,0.4108,0.5716
+medium,0.0357,0.0468,0.15,0.3556
+hard,0.0517,0.0738,0.1723,0.2393
+overall,0.073,0.1065,0.2444,0.3888

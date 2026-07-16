@@ -1,0 +1,301 @@
+difficulty,image_type,image_name,ocr_text,confidence,notes
+easy,sr_tsrn,easy_001_lr_tsrn.png,0U06029757,0.2245,
+easy,sr_tsrn,easy_002_lr_tsrn.png,0U04029757,0.8153,
+easy,sr_tsrn,easy_003_lr_tsrn.png,(Cammme,0.4917,
+easy,sr_tsrn,easy_004_lr_tsrn.png,Moses,0.997,
+easy,sr_tsrn,easy_005_lr_tsrn.png,Irpresslonlsi,0.3952,
+easy,sr_tsrn,easy_006_lr_tsrn.png,1830 T 1903,0.6719,
+easy,sr_tsrn,easy_007_lr_tsrn.png,"Plssarro,",0.8473,
+easy,sr_tsrn,easy_008_lr_tsrn.png,Camille,0.7839,
+easy,sr_tsrn,easy_009_lr_tsrn.png,10J0  |DOJ,0.201,
+easy,sr_tsrn,easy_010_lr_tsrn.png,2,0.2266,
+easy,sr_tsrn,easy_011_lr_tsrn.png,E=,0.0005,
+easy,sr_tsrn,easy_012_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_013_lr_tsrn.png,Mango,0.71,
+easy,sr_tsrn,easy_014_lr_tsrn.png,Mango,0.7807,
+easy,sr_tsrn,easy_015_lr_tsrn.png,n,0.0552,
+easy,sr_tsrn,easy_016_lr_tsrn.png,2,0.4878,
+easy,sr_tsrn,easy_017_lr_tsrn.png,(Pcs,0.2113,
+easy,sr_tsrn,easy_018_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_019_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_020_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_021_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_022_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_023_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_024_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_025_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_026_lr_tsrn.png,L7-2,0.0191,
+easy,sr_tsrn,easy_027_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_028_lr_tsrn.png,Fn,0.1305,
+easy,sr_tsrn,easy_029_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_030_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_031_lr_tsrn.png,FLBH,0.1182,
+easy,sr_tsrn,easy_032_lr_tsrn.png,ecala,0.1152,
+easy,sr_tsrn,easy_033_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_034_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_035_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_036_lr_tsrn.png,C,0.1676,
+easy,sr_tsrn,easy_037_lr_tsrn.png,doco,0.4142,
+easy,sr_tsrn,easy_038_lr_tsrn.png,Sen,0.363,
+easy,sr_tsrn,easy_039_lr_tsrn.png,Canar,0.1605,
+easy,sr_tsrn,easy_040_lr_tsrn.png,SIEMENS,0.9971,
+easy,sr_tsrn,easy_041_lr_tsrn.png,SIEMENS,0.9975,
+easy,sr_tsrn,easy_042_lr_tsrn.png,SIEMENS,0.9963,
+easy,sr_tsrn,easy_043_lr_tsrn.png,SIEMES,0.7084,
+easy,sr_tsrn,easy_044_lr_tsrn.png,slEM@NS,0.2951,
+easy,sr_tsrn,easy_045_lr_tsrn.png,SIEMIFNS,0.452,
+easy,sr_tsrn,easy_046_lr_tsrn.png,SLEMCNS,0.8846,
+easy,sr_tsrn,easy_047_lr_tsrn.png,SIEMMENS,0.6415,
+easy,sr_tsrn,easy_048_lr_tsrn.png,SIEMEAS,0.3442,
+easy,sr_tsrn,easy_049_lr_tsrn.png,SIEMENS,0.9943,
+easy,sr_tsrn,easy_050_lr_tsrn.png,SIEMENS,0.996,
+easy,sr_tsrn,easy_051_lr_tsrn.png,SIEMENS,0.9985,
+easy,sr_tsrn,easy_052_lr_tsrn.png,SIEMENS,0.9498,
+easy,sr_tsrn,easy_053_lr_tsrn.png,SIEME,0.9971,
+easy,sr_tsrn,easy_054_lr_tsrn.png,SIEMENS,0.9968,
+easy,sr_tsrn,easy_055_lr_tsrn.png,SIEMLAS,0.1836,
+easy,sr_tsrn,easy_056_lr_tsrn.png,S,0.5835,
+easy,sr_tsrn,easy_057_lr_tsrn.png,SD - R,0.087,
+easy,sr_tsrn,easy_058_lr_tsrn.png,SLEME,0.6917,
+easy,sr_tsrn,easy_059_lr_tsrn.png,SIEMENS,0.5953,
+easy,sr_tsrn,easy_060_lr_tsrn.png,SIEMENS,0.5044,
+easy,sr_tsrn,easy_061_lr_tsrn.png,SIEMENS,0.994,
+easy,sr_tsrn,easy_062_lr_tsrn.png,SIEMENS,0.9309,
+easy,sr_tsrn,easy_063_lr_tsrn.png,SIEMENS,0.9958,
+easy,sr_tsrn,easy_064_lr_tsrn.png,SIEME,0.9675,
+easy,sr_tsrn,easy_065_lr_tsrn.png,SIEMENS,0.9191,
+easy,sr_tsrn,easy_066_lr_tsrn.png,SLCM,0.2733,
+easy,sr_tsrn,easy_067_lr_tsrn.png,S,0.8825,
+easy,sr_tsrn,easy_068_lr_tsrn.png,SE,0.2963,
+easy,sr_tsrn,easy_069_lr_tsrn.png,SIEIEM,0.2812,
+easy,sr_tsrn,easy_070_lr_tsrn.png,SIEMEIS,0.6598,
+easy,sr_tsrn,easy_071_lr_tsrn.png,Dantect,0.0995,
+easy,sr_tsrn,easy_072_lr_tsrn.png,Bciluxo,0.0927,
+easy,sr_tsrn,easy_073_lr_tsrn.png,Diete,0.2563,
+easy,sr_tsrn,easy_074_lr_tsrn.png,Bouldr,0.4465,
+easy,sr_tsrn,easy_075_lr_tsrn.png,Dileca (I(,0.0547,
+easy,sr_tsrn,easy_076_lr_tsrn.png,8u,0.417,
+easy,sr_tsrn,easy_077_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_078_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_079_lr_tsrn.png,Oa,0.0827,
+easy,sr_tsrn,easy_080_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_081_lr_tsrn.png,Jonathan,0.9733,
+easy,sr_tsrn,easy_082_lr_tsrn.png,eron,0.1366,
+easy,sr_tsrn,easy_083_lr_tsrn.png,Gulore,0.9093,
+easy,sr_tsrn,easy_084_lr_tsrn.png,Galore,0.9308,
+easy,sr_tsrn,easy_085_lr_tsrn.png,60,0.3533,
+easy,sr_tsrn,easy_086_lr_tsrn.png,Ginuo,0.5341,
+easy,sr_tsrn,easy_087_lr_tsrn.png,GnT,0.1196,
+easy,sr_tsrn,easy_088_lr_tsrn.png,Gularn,0.2377,
+easy,sr_tsrn,easy_089_lr_tsrn.png,Ecnco,0.1838,
+easy,sr_tsrn,easy_090_lr_tsrn.png,Galoru,0.6567,
+easy,sr_tsrn,easy_091_lr_tsrn.png,bnlun,0.1224,
+easy,sr_tsrn,easy_092_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_093_lr_tsrn.png,Gularn,0.5839,
+easy,sr_tsrn,easy_094_lr_tsrn.png,Crono,0.3961,
+easy,sr_tsrn,easy_095_lr_tsrn.png,Gelara,0.7057,
+easy,sr_tsrn,easy_096_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_097_lr_tsrn.png,Galore,0.9713,
+easy,sr_tsrn,easy_098_lr_tsrn.png,Gna,0.2293,
+easy,sr_tsrn,easy_099_lr_tsrn.png,,0,No text detected
+easy,sr_tsrn,easy_100_lr_tsrn.png,cChan,0.1045,
+medium,sr_tsrn,medium_001_lr_tsrn.png,Quickly,0.3126,
+medium,sr_tsrn,medium_002_lr_tsrn.png,thur,0.9834,
+medium,sr_tsrn,medium_003_lr_tsrn.png,fro,0.0132,
+medium,sr_tsrn,medium_004_lr_tsrn.png,"I1kOdam . I1,o0",0.0971,
+medium,sr_tsrn,medium_005_lr_tsrn.png,Sat,0.2972,
+medium,sr_tsrn,medium_006_lr_tsrn.png,Sun,0.4029,
+medium,sr_tsrn,medium_007_lr_tsrn.png,MEAL,0.2338,
+medium,sr_tsrn,medium_008_lr_tsrn.png,CALIFORIIA,0.7356,
+medium,sr_tsrn,medium_009_lr_tsrn.png,ckllfoprtn,0.1614,
+medium,sr_tsrn,medium_010_lr_tsrn.png,PAFc,0.0954,
+medium,sr_tsrn,medium_011_lr_tsrn.png,79e,0.0232,
+medium,sr_tsrn,medium_012_lr_tsrn.png,IUGS,0.0211,
+medium,sr_tsrn,medium_013_lr_tsrn.png,Wctor,0.2374,
+medium,sr_tsrn,medium_014_lr_tsrn.png,Dscdy,0.095,
+medium,sr_tsrn,medium_015_lr_tsrn.png,Aadod,0.3393,
+medium,sr_tsrn,medium_016_lr_tsrn.png,Te,0.0471,
+medium,sr_tsrn,medium_017_lr_tsrn.png,S_,0.0274,
+medium,sr_tsrn,medium_018_lr_tsrn.png,Jovc,0.0376,
+medium,sr_tsrn,medium_019_lr_tsrn.png,Ia{,0.0144,
+medium,sr_tsrn,medium_020_lr_tsrn.png,+,0.028,
+medium,sr_tsrn,medium_021_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_022_lr_tsrn.png,Je =,0.0622,
+medium,sr_tsrn,medium_023_lr_tsrn.png,T,0.1726,
+medium,sr_tsrn,medium_024_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_025_lr_tsrn.png,Lanocac,0.0871,
+medium,sr_tsrn,medium_026_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_027_lr_tsrn.png,ba-,0.2105,
+medium,sr_tsrn,medium_028_lr_tsrn.png,,0.0,
+medium,sr_tsrn,medium_029_lr_tsrn.png,D,0.3799,
+medium,sr_tsrn,medium_030_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_031_lr_tsrn.png,paunix,0.3195,
+medium,sr_tsrn,medium_032_lr_tsrn.png,(,0.0328,
+medium,sr_tsrn,medium_033_lr_tsrn.png,Csplain,0.5682,
+medium,sr_tsrn,medium_034_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_035_lr_tsrn.png,Lb_,0.0605,
+medium,sr_tsrn,medium_036_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_037_lr_tsrn.png,eceor,0.168,
+medium,sr_tsrn,medium_038_lr_tsrn.png,TecL,0.0402,
+medium,sr_tsrn,medium_039_lr_tsrn.png,boom,0.6014,
+medium,sr_tsrn,medium_040_lr_tsrn.png,boan,0.7864,
+medium,sr_tsrn,medium_041_lr_tsrn.png,bchina,0.988,
+medium,sr_tsrn,medium_042_lr_tsrn.png,bctung,0.3119,
+medium,sr_tsrn,medium_043_lr_tsrn.png,tE,0.1709,
+medium,sr_tsrn,medium_044_lr_tsrn.png,pQvoded,0.1343,
+medium,sr_tsrn,medium_045_lr_tsrn.png,Oi,0.0878,
+medium,sr_tsrn,medium_046_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_047_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_048_lr_tsrn.png,On,0.0131,
+medium,sr_tsrn,medium_049_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_050_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_051_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_052_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_053_lr_tsrn.png,'S6,0.2085,
+medium,sr_tsrn,medium_054_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_055_lr_tsrn.png,2,0.0277,
+medium,sr_tsrn,medium_056_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_057_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_058_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_059_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_060_lr_tsrn.png,Aoille,0.0538,
+medium,sr_tsrn,medium_061_lr_tsrn.png,Snnc,0.0008,
+medium,sr_tsrn,medium_062_lr_tsrn.png,Dc,0.096,
+medium,sr_tsrn,medium_063_lr_tsrn.png,Ce,0.0193,
+medium,sr_tsrn,medium_064_lr_tsrn.png,Oe,0.5272,
+medium,sr_tsrn,medium_065_lr_tsrn.png,Bite,0.0866,
+medium,sr_tsrn,medium_066_lr_tsrn.png,1,0.0658,
+medium,sr_tsrn,medium_067_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_068_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_069_lr_tsrn.png,cnough,0.6005,
+medium,sr_tsrn,medium_070_lr_tsrn.png,nnaua,0.0911,
+medium,sr_tsrn,medium_071_lr_tsrn.png,Js,0.022,
+medium,sr_tsrn,medium_072_lr_tsrn.png,1,0.0172,
+medium,sr_tsrn,medium_073_lr_tsrn.png,td,0.0402,
+medium,sr_tsrn,medium_074_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_075_lr_tsrn.png,t,0.2216,
+medium,sr_tsrn,medium_076_lr_tsrn.png,1,0.0272,
+medium,sr_tsrn,medium_077_lr_tsrn.png,dillerence,0.6613,
+medium,sr_tsrn,medium_078_lr_tsrn.png,snicrrnce,0.1869,
+medium,sr_tsrn,medium_079_lr_tsrn.png,Wkale,0.1074,
+medium,sr_tsrn,medium_080_lr_tsrn.png,Map,0.0422,
+medium,sr_tsrn,medium_081_lr_tsrn.png,tre,0.0607,
+medium,sr_tsrn,medium_082_lr_tsrn.png,S,0.0133,
+medium,sr_tsrn,medium_083_lr_tsrn.png,outsadc,0.1438,
+medium,sr_tsrn,medium_084_lr_tsrn.png,outsst,0.1042,
+medium,sr_tsrn,medium_085_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_086_lr_tsrn.png,toasico,0.852,
+medium,sr_tsrn,medium_087_lr_tsrn.png,Ioasca,0.2466,
+medium,sr_tsrn,medium_088_lr_tsrn.png,Gnd,0.0279,
+medium,sr_tsrn,medium_089_lr_tsrn.png,Cnsdy,0.293,
+medium,sr_tsrn,medium_090_lr_tsrn.png,Drocy-,0.0857,
+medium,sr_tsrn,medium_091_lr_tsrn.png,45?,0.0252,
+medium,sr_tsrn,medium_092_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_093_lr_tsrn.png,Insidc,0.215,
+medium,sr_tsrn,medium_094_lr_tsrn.png,Cndus,0.0164,
+medium,sr_tsrn,medium_095_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_096_lr_tsrn.png,,0,No text detected
+medium,sr_tsrn,medium_097_lr_tsrn.png,chovo,0.2401,
+medium,sr_tsrn,medium_098_lr_tsrn.png,Ot,0.1568,
+medium,sr_tsrn,medium_099_lr_tsrn.png,Fo,0.0161,
+medium,sr_tsrn,medium_100_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_001_lr_tsrn.png,Quickiy,0.2354,
+hard,sr_tsrn,hard_002_lr_tsrn.png,WE RE,0.884,
+hard,sr_tsrn,hard_003_lr_tsrn.png,HIRING,0.9446,
+hard,sr_tsrn,hard_004_lr_tsrn.png,Usto,0.0736,
+hard,sr_tsrn,hard_005_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_006_lr_tsrn.png,thur,0.6144,
+hard,sr_tsrn,hard_007_lr_tsrn.png,"IlOD,0m : I1,",0.0425,
+hard,sr_tsrn,hard_008_lr_tsrn.png,ILcno . IO,0.0151,
+hard,sr_tsrn,hard_009_lr_tsrn.png,Ln,0.0045,
+hard,sr_tsrn,hard_010_lr_tsrn.png,"II,00 am . |1,du",0.0363,
+hard,sr_tsrn,hard_011_lr_tsrn.png,a2,0.1021,
+hard,sr_tsrn,hard_012_lr_tsrn.png,I.O0om : IO,0.1047,
+hard,sr_tsrn,hard_013_lr_tsrn.png,SC,0.0902,
+hard,sr_tsrn,hard_014_lr_tsrn.png,Il Odam : |1o,0.0285,
+hard,sr_tsrn,hard_015_lr_tsrn.png,Ilm,0.5784,
+hard,sr_tsrn,hard_016_lr_tsrn.png,0o,0.2072,
+hard,sr_tsrn,hard_017_lr_tsrn.png,Fi@,0.0088,
+hard,sr_tsrn,hard_018_lr_tsrn.png,Sollcltatl ,0.6945,
+hard,sr_tsrn,hard_019_lr_tsrn.png,8ollcltotle,0.396,
+hard,sr_tsrn,hard_020_lr_tsrn.png,Quickly,0.9958,
+hard,sr_tsrn,hard_021_lr_tsrn.png,UicklUSA,0.604,
+hard,sr_tsrn,hard_022_lr_tsrn.png,HolJialdo,0.5225,
+hard,sr_tsrn,hard_023_lr_tsrn.png,Caramel,0.8233,
+hard,sr_tsrn,hard_024_lr_tsrn.png,Caramel,0.5694,
+hard,sr_tsrn,hard_025_lr_tsrn.png,Oldnawa,0.4492,
+hard,sr_tsrn,hard_026_lr_tsrn.png,Brown,0.9442,
+hard,sr_tsrn,hard_027_lr_tsrn.png,Otosn,0.3515,
+hard,sr_tsrn,hard_028_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_029_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_030_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_031_lr_tsrn.png,WmuCucsusa,0.0447,
+hard,sr_tsrn,hard_032_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_033_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_034_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_035_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_036_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_037_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_038_lr_tsrn.png,J,0.0667,
+hard,sr_tsrn,hard_039_lr_tsrn.png,Ou,0.2173,
+hard,sr_tsrn,hard_040_lr_tsrn.png,nosnu,0.1894,
+hard,sr_tsrn,hard_041_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_042_lr_tsrn.png,Mocr,0.4974,
+hard,sr_tsrn,hard_043_lr_tsrn.png,MGcI,0.0123,
+hard,sr_tsrn,hard_044_lr_tsrn.png,Enae,0.019,
+hard,sr_tsrn,hard_045_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_046_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_047_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_048_lr_tsrn.png,Owaroo,0.1795,
+hard,sr_tsrn,hard_049_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_050_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_051_lr_tsrn.png,F3,0.0049,
+hard,sr_tsrn,hard_052_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_053_lr_tsrn.png,J9,0.0073,
+hard,sr_tsrn,hard_054_lr_tsrn.png,20,0.7541,
+hard,sr_tsrn,hard_055_lr_tsrn.png,22,0.9748,
+hard,sr_tsrn,hard_056_lr_tsrn.png,203,0.1542,
+hard,sr_tsrn,hard_057_lr_tsrn.png,Fel?,0.0021,
+hard,sr_tsrn,hard_058_lr_tsrn.png,noje,0.2054,
+hard,sr_tsrn,hard_059_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_060_lr_tsrn.png,30,0.4268,
+hard,sr_tsrn,hard_061_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_062_lr_tsrn.png,=or,0.0796,
+hard,sr_tsrn,hard_063_lr_tsrn.png,Ce8,0.0709,
+hard,sr_tsrn,hard_064_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_065_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_066_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_067_lr_tsrn.png,Feac,0.0322,
+hard,sr_tsrn,hard_068_lr_tsrn.png,293,0.1016,
+hard,sr_tsrn,hard_069_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_070_lr_tsrn.png,CDUo,0.0889,
+hard,sr_tsrn,hard_071_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_072_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_073_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_074_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_075_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_076_lr_tsrn.png,20,0.9941,
+hard,sr_tsrn,hard_077_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_078_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_079_lr_tsrn.png,Srn,0.0019,
+hard,sr_tsrn,hard_080_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_081_lr_tsrn.png,oan,0.1572,
+hard,sr_tsrn,hard_082_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_083_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_084_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_085_lr_tsrn.png,C2,0.0889,
+hard,sr_tsrn,hard_086_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_087_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_088_lr_tsrn.png,O,0.2385,
+hard,sr_tsrn,hard_089_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_090_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_091_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_092_lr_tsrn.png,6r2,0.0233,
+hard,sr_tsrn,hard_093_lr_tsrn.png,3,0.0136,
+hard,sr_tsrn,hard_094_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_095_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_096_lr_tsrn.png,U,0.0086,
+hard,sr_tsrn,hard_097_lr_tsrn.png,,0,No text detected
+hard,sr_tsrn,hard_098_lr_tsrn.png,20,0.7478,
+hard,sr_tsrn,hard_099_lr_tsrn.png,22,0.2904,
+hard,sr_tsrn,hard_100_lr_tsrn.png,400,0.22,
